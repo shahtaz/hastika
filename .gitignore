@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Machine learning
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Generated results
+results/
+submissions/
+
+# OS
+.DS_Store
+Thumbs.db
